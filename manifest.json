@@ -1,5 +1,5 @@
 {
-  "name": "WAFT",
+  "name": "waft",
   "description": "Wolf avatar",
   "xr_type": "vrm@0.0.1",
   "start_url": "waft.vrm"
